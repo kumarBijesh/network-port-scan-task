@@ -7,4 +7,3 @@ PORT     STATE SERVICE
 912/tcp  open  apex-mesh
 5357/tcp open  wsdapi
 
-Nmap done: 256 IP addresses (5 hosts up) scanned in 45.78 seconds
